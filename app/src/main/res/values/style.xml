@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CalcButton" parent="Widget.MaterialComponents.Button">
+        <item name="android:fontFamily">@font/funtime</item>
+        <item name="android:backgroundTint">@color/blue</item>
+    </style>
+
+    <style name="CalcButton.Operate">
+        <item name="android:backgroundTint">@color/cardview_dark_background</item>
+    </style>
+
+</resources>
