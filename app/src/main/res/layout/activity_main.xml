@@ -5,8 +5,16 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:background="@drawable/fon"
     >
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/theme"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/select_theme"
+        style = "@style/CalcButton.Operate"
+        tools:ignore="MissingConstraints" />
+
+
     <TextView
         android:id="@+id/textView1"
         android:layout_width="0dp"

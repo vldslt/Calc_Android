@@ -17,4 +17,10 @@
     <string name="key_equals">=</string>
     <string name="key_division">/</string>
     <string name="CLEAR">CLEAR</string>
+    <string name="select_theme">select theme</string>
+    <string name="theme_1">theme 1</string>
+    <string name="theme_2">theme 2</string>
+    <string name="theme_3">theme 3</string>
+    <string name="how_to">ethernet</string>
+    <string name="ethernet">ethernet</string>
 </resources>

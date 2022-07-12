@@ -4,15 +4,22 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:background="@drawable/fon">
+    android:layout_height="wrap_content">
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/theme"
+        style="@style/CalcButton.Operate"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:text="@string/select_theme"
+        tools:ignore="MissingConstraints" />
 
     <TextView
         android:id="@+id/textView1"
         android:layout_width="0dp"
-        android:layout_height="wrap_content"
+        android:layout_height="55dp"
         android:layout_marginLeft="24dp"
-        android:layout_marginTop="30dp"
+        android:layout_marginTop="45dp"
         android:layout_marginRight="24dp"
         android:autofillHints="no"
         android:hint="ОТВЕТ ТУТ"

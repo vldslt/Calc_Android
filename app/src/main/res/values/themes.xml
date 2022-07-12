@@ -12,11 +12,35 @@
         <!-- Status bar color. -->
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
+        <item name="android:background">@color/ivory</item>
+    </style>
 
-        <!--
-        <item name="android:background">@drawable/fondark</item>
-        не работает((
-        -->
 
+    <style name="Theme.Calc_Android.V2">
+        <item name="colorPrimary">@color/Silver</item>
+        <item name="colorPrimaryVariant">@color/Silver</item>
+        <item name="colorOnPrimary">@color/Silver</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/Silver</item>
+        <item name="colorSecondaryVariant">@color/Silver</item>
+        <item name="colorOnSecondary">@color/DarkSlateGrey</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:background">@color/purple_500</item>
+    </style>
+
+    <style name="Theme.Calc_Android.V3">
+        <item name="colorPrimary">@color/DarkOliveGreen</item>
+        <item name="colorPrimaryVariant">@color/DarkOliveGreen</item>
+        <item name="colorOnPrimary">@color/Plum</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/DarkOliveGreen</item>
+        <item name="colorSecondaryVariant">@color/DarkOliveGreen</item>
+        <item name="colorOnSecondary">@color/Plum</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:background">@color/DarkSlateGrey</item>
     </style>
 </resources>

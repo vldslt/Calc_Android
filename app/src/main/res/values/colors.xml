@@ -8,4 +8,10 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="blue">#000066</color>
+    <color name="ivory">#FFFFF0</color>
+    <color name="Silver">#C0C0C0</color>
+    <color name="Aqua">#00FFFF</color>
+    <color name="DarkSlateGrey">#2F4F4F</color>
+    <color name="DarkOliveGreen">#556B2F</color>
+    <color name="Plum">#DDA0DD</color>
 </resources>
